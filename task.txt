@@ -1,0 +1,2 @@
+client id: 1081765155758-55rj3r6s99e9n2n1nc7cpjji1l64elne.apps.googleusercontent.com
+secret: iEfrWfLalkqOjfQptWoSPCjw
